@@ -1,13 +1,14 @@
 html{
     margin: 0;
-    height: 110vh;
+    height: 100%;
 }
 
 body{
     font-family: sans-serif;
     text-align: center;
     background: linear-gradient(to bottom, #ffffff, #ffe9c8);
-    height: 110vh;
+    background-attachment: fixed;
+    height: 100%;
 
 }
 
