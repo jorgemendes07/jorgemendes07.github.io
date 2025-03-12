@@ -33,6 +33,11 @@ button {
     border-radius: 1.3em;
     border: solid .15em;
     cursor: pointer;
+    transition: .3s;
+}
+
+button:hover{
+    background-color: #ebd1ad;
 }
 
 .linkIcon {
